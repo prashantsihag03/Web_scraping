@@ -1,4 +1,4 @@
-'''Program to get familiar with fundamentals of Web Scraping using BeautifulSoup library '''
+'''Scraping IMDB to fetch the list of top Movies in 2018'''
 
 #import the required libraries
 from bs4 import BeautifulSoup
